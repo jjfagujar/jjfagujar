@@ -45,15 +45,27 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 ---
 
+## 🎮 Catch the Falling Objects Game!
+
+<div align="center">
+
+**Try to catch the emojis! Use arrow keys ← → to move**
+
+Want to play? Check out interactive games on my profile or build your own!
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jfagujar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E)
+  <img src="https://github-readme-stats.vercel.app/api?username=jfagujar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" />
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jfagujar&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
+  <img src="https://streak-stats.demolab.com/?user=jfagujar&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfagujar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfagujar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
 
 </div>
 
@@ -63,7 +75,7 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=jfagujar&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+  <img src="https://github-profile-trophy.vercel.app/?username=jfagujar&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
   
 </div>
 
@@ -73,7 +85,17 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jfagujar&theme=react-dark&hide_border=true&area=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfagujar&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  
+</div>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions!
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/jfagujar/jfagujar/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -83,8 +105,13 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
 
-[![Final](https://github-readme-stats.vercel.app/api/pin/?username=jfagujar&repo=final&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/jfagujar/final)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=jfagujar&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/jfagujar/portfolio)
+<a href="https://github.com/jfagujar/final">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfagujar&repo=final&theme=radical&hide_border=true&bg_color=0D1117" alt="Final" />
+</a>
+
+<a href="https://github.com/jfagujar/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jfagujar&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -94,9 +121,12 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfagujar@addu.edu.ph)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfagujar)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jfagujar)
+  <a href="mailto:jfagujar@addu.edu.ph">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/jfagujar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   
 </div>
 
@@ -105,10 +135,10 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 <div align="center">
   
   ### 💭 Random Dev Quote
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
   
   ### 👀 Profile Views
-  ![Visitor Count](https://profile-counter.glitch.me/jfagujar/count.svg)
+  <img src="https://komarev.com/ghpvc/?username=jfagujar&color=F75C7E&style=flat-square&label=Profile+Views" alt="Profile Views" />
   
   ---
   
