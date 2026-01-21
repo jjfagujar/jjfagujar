@@ -5,7 +5,7 @@
 <h2 align="center">Jhoeritch Josephus F. Agujar</h2>
 
 <p align="center">
-  <img src="assets/aboutme_header.jpg" alt="About Me" width="100%"  height="60%" style="border-radius: 50%; border: 5px solid #842929; display: block; margin: auto;">
+  <img src="assets/aboutme2_header.jpg" alt="About Me" width="100%"  height="60%" style="border-radius: 50%; border: 5px solid #842929; display: block; margin: auto;">
 </p>
 
 <p align="center">
