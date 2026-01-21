@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/PORTFOLIO HEADER.jpg" width="100%" />
+  <img src="assets/PORTFOLIO.jpg" width="100%" />
 </p>
