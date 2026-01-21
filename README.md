@@ -2,5 +2,5 @@
   <img src="assets/PORTFOLIO.jpg" width="100%" />
 </p> -->
 <p align="center">
-  <img src="assests/PORTFOLIO.png" alt="Jhoeritch Josephus F. Agujar" width="100%" style="border-radius: 50%; border: 5px solid #842929; display: block; margin: auto;">
+  <img src="assets/portfolio_title.jpg" alt="Jhoeritch Josephus F. Agujar" width="100%" style="border-radius: 50%; border: 5px solid #842929; display: block; margin: auto;">
 </p>
