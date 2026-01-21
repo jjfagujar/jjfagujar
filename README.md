@@ -8,6 +8,6 @@
   <img src="assets/aboutme_header.jpg" alt="Jhoeritch Josephus F. Agujar" width="70%" style="border-radius: 50%; border: 5px solid #842929; display: block; margin: auto;">
 </p>
 
-<p align="justified">
+<p align="center">
   I am currently in my 2nd year studying BS Computer Science
 </p>
